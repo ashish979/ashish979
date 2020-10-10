@@ -52,4 +52,7 @@
   <a href="https://www.instagram.com/theflyingbroomstick/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="theflyingbroomstick" height="30" width="30" />
   </a>
+  <a href="https://codepen.io/ashish979" target="blank">
+    <img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/codepen/codepen-plain.svg" alt="ashish979" height="30" width="30" />
+  </a>
 </p>

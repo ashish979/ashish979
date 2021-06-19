@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish979" alt="ashish979" /> </p>
 
-- 🔭 I’m currently working at [Rakuten](https://corp.rakuten.co.in/)
+- 🔭 I’m currently working at [Raksul](https://corp.raksul.com/en/about/)
 
 - 🌱 I’m currently learning **Javascript, the Good and Weird parts**
 
-- 💬 Ask me about **Hybrid apps, React.js, Node.js**
+- 💬 Ask me about **React.js, Typescript and Node.js**
 
 - 📫 How to reach me **ashishagrawal979@gmail.com**
 

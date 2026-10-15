@@ -17,13 +17,16 @@ I've spent **11+ years** building production software, and the last **5+ leading
 - 🛠️ **Repeat production incidents down ~15%** through structured root-cause analysis; observability with Datadog
 - 🤖 **Lead AI governance for engineering.** Rolled out AI-assisted development (Cursor, CodeRabbit, Gemini Code Assist), cutting **code-review turnaround by ~50%**, and shipped GenAI features such as natural-language SaaS insights
 
-### 🔨 What I'm building
+### 🔨 Featured projects
 
-**[Sprint Manager](https://github.com/ashish979/sprint-manager)** is our in-house, Slack-first tool for async daily standups and duty rotations, with a web dashboard for admins. It replaces paid Geekbot / Rotation.app-style tools.
+Side projects I build end to end: product thinking, UI, backend, tests, docs and a one-command demo with fictional data.
 
-- **Stack:** Next.js 15 · SST/OpenNext on AWS Lambda + CloudFront · DynamoDB · EventBridge · Slack Platform
-- **Designed to run for ≈ $0–1/month** (hard ceiling: $5), with on-demand DynamoDB billing
-- **Features:** 3-tier roles with per-item ownership, Slack-native rotation queue management, timezone-aware scheduling
+| Project | What it is | Stack |
+|---|---|---|
+| **[Async Sprint Manager](https://github.com/ashish979/async-sprint-manager)** | Slack-first async standups and duty rotations with an admin dashboard. Timezone-aware scheduling, idempotent 15-minute tick, 3-tier roles, ~$0–1/month to run | Next.js 15 · SST/OpenNext on AWS Lambda + CloudFront · DynamoDB · EventBridge · Slack Platform |
+| **[Expense Manager](https://github.com/ashish979/expense-manager)** ([live](https://expense-manager-delta-ten.vercel.app)) | Splitwise-style app: four split types, groups and friends, debt simplification, settlements, CSV export, installable PWA | Next.js 16 · React 19 · TypeScript · MongoDB · Auth.js · TanStack Query · Tailwind 4 |
+| **[Meal Planner](https://github.com/ashish979/meal-planner)** ([live](https://meal-planner-orcin.vercel.app)) | Weekly meal planner with drag-and-drop calendar, auto-suggest and prep reminders; runs with no credentials via a bundled mock backend | Next.js 16 · React 19 · TypeScript · Supabase · Tailwind 4 |
+| **[EM Jira Tracker](https://github.com/ashish979/em-jira-tracker)** | Jira dashboard for engineering managers: team workload radar, sprint health, attention queue; mock mode included | Vanilla JS (no build step) · Node.js · Jira Cloud REST |
 
 ### 🧰 Tech I work with
 
@@ -43,15 +46,6 @@ I've spent **11+ years** building production software, and the last **5+ leading
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=black)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white)
-
-### 🗂️ Earlier open source
-
-| Repo | What it is |
-|---|---|
-| [rbac_new](https://github.com/ashish979/rbac_new) | Authentication with **dynamic role-based authorization** in Rails (⭐ 2 · 🍴 3) |
-| [oauthapp](https://github.com/ashish979/oauthapp) | Login with multiple OAuth2 providers (Rails + OmniAuth) |
-| [clusterize-blaze](https://github.com/ashish979/clusterize-blaze) | clusterize.js adapted for Meteor Blaze, for rendering very large lists smoothly (⭐ 2) |
-| [meteor-vue-example](https://github.com/ashish979/meteor-vue-example) | Vue + Meteor integration example with vue-router |
 
 ### 🧭 Where I've been
 
